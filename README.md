@@ -1,4 +1,4 @@
-# 07-Project-Quench
+# 07-Project-Satisfy (C. Toscano)
 
 Project Title: 
 Dine in or out (Satisfy ..your cravings)
