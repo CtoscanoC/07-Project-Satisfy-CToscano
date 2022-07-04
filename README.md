@@ -16,7 +16,7 @@ User Story:
 
 Initial Wireframe:
 
-Link for wireframe:
+Link for inital wireframe:
 https://drive.google.com/file/d/10qSAEp271dWqorxWUp-54UL1kVd3vMNq/view?usp=sharing
 
 Screenshots of the actual developed page:
