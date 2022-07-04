@@ -14,10 +14,30 @@ User Story:
 
 **SO that I** can decide if I want to make a meal at home or go out for a meal.
 
+link to deploy application:
+
+https://ctoscanoc.github.io/07-Project-Satisfy-CToscano/
+
+
 Initial Wireframe:
 
 Link for inital wireframe:
 https://drive.google.com/file/d/10qSAEp271dWqorxWUp-54UL1kVd3vMNq/view?usp=sharing
+
+Technologies used :
+Server Side API’s 
+- Google maps (map)
+-Edamam (recipe database)
+JQuery 
+Bootstrap
+Google Fonts
+HTML
+CSS
+Javascript
+
+Link to ppt: 
+https://docs.google.com/presentation/d/1IcCjY9hsnR2tY6hYbTylf_D3y_K7ug4FreJATgQ8Hes/edit#slide=id.g139fa6d04ca_0_24
+
 
 Screenshots of the actual developed page:
 
